@@ -1,0 +1,10 @@
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.3
+shap>=0.44
+matplotlib>=3.7
+streamlit>=1.30
+joblib>=1.3
+reportlab>=4.0
+# Optional 4th candidate model (train.py uses it automatically if installed):
+# xgboost>=2.0
